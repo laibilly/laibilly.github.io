@@ -1,100 +1,99 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <title>&lt;model-viewer&gt; template</title>
-    <meta charset="utf-8">
-    <meta name="description" content="&lt;model-viewer&gt; template">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="./styles.css" rel="stylesheet"/>
-    <!-- OPTIONAL: The :focus-visible polyfill removes the focus ring for some input types -->
-    <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
-  </head>
-  <body>
-    <!-- <model-viewer> HTML element -->
-    <model-viewer id="hotspot-camera-view-demo"  bounds="tight" enable-pan src="final_appeal.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1">
-      <button class="Hotspot" slot="hotspot-1"
-              data-position="-0.019428623441282336m 2.54919551476961m 0.015040466088957878m"
-              data-normal="0m -1m 0m"
+<head>
+  <title>&lt;model-viewer&gt; template</title>
+  <meta charset="utf-8">
+  <meta name="description" content="&lt;model-viewer&gt; template">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link type="text/css" href="./styles.css" rel="stylesheet"/>
+  <!-- OPTIONAL: The :focus-visible polyfill removes the focus ring for some input types -->
+  <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
+</head>
+<body>
+<!-- <model-viewer> HTML element -->
+<model-viewer id="hotspot-camera-view-demo"  bounds="tight" enable-pan src="final_appeal.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1">
+  <button class="Hotspot" slot="hotspot-1"
+          data-position="-0.019428623441282336m 2.54919551476961m 0.015040466088957878m"
+          data-normal="0m -1m 0m"
 
-              data-orbit="0m -1m 0m"
-              data-target="-0.019428623441282336m 2.54919551476961m 0.015040466088957878m"
-
-
-
-              data-visibility-attribute="visible"
-      >
-          <div class="HotspotAnnotation">Bronze Tudor Crown</div>
-      </button>
-        <button class="Hotspot" slot="hotspot-2" data-position="-0.7447473194972593m 0.5609446571192558m 0.17150995729337482m" data-normal="-0.9914448597534875m 0m 0.1305262045276267m"
-
-
-                data-orbit="-0.9914448597534875m 0m 0.1305262045276267m"
-                data-target="-0.7447473194972593m 0.5609446571192558m 0.17150995729337482m"
+          data-orbit="0m -1m 0m"
+          data-target="-0.019428623441282336m 2.54919551476961m 0.015040466088957878m"
 
 
 
-
-                data-visibility-attribute="visible">
-          <div class="HotspotAnnotation">Victorian Buildings
-          </div>
-      </button>
-
-
-        <button class="Hotspot" slot="hotspot-3" data-position="0.23202511875832205m 1.355418012940024m 0.4931727603443486m" data-normal="-0.5856454166579043m 0.674592925147162m -0.44938160986959125m"
-
-                data-orbit="-0.5856454166579043m 0.674592925147162m -0.44938160986959125m"
-                data-target="0.23202511875832205m 1.355418012940024m 0.4931727603443486m"
+          data-visibility-attribute="visible"
+  >
+    <div class="HotspotAnnotation">Bronze Tudor Crown</div>
+  </button>
+  <button class="Hotspot" slot="hotspot-2" data-position="-0.7447473194972593m 0.5609446571192558m 0.17150995729337482m" data-normal="-0.9914448597534875m 0m 0.1305262045276267m"
 
 
-                data-visibility-attribute="visible">
-          <div class="HotspotAnnotation">Symbol of the highest court</div>
-      </button>
-
-
-        <button class="Hotspot" slot="hotspot-4" data-position="0.26142564553167913m 1.3577775922443112m -0.46329419972357155m" data-normal="0.7352954429455449m 0.6777467163944912m 0m"
-
-                data-orbit="0.7352954429455449m 0.6777467163944912m 0.44938160986959125m"
-                data-target="0.26142564553167913m 1.3577775922443112m -0.46329419972357155m"
-
-
-                data-visibility-attribute="visible">
-          <div class="HotspotAnnotation">Dome</div>
-      </button>
-
-
-        <button class="Hotspot" slot="hotspot-5"
-                data-position="0.42848696234684047m -0.001468207970816593m 0.03186400137936831m"
-                data-normal="0m -1m 2.220446049250313e-16m"
-                data-orbit="0.3deg 143.1deg auto"
-                data-target="0.4m -0.0m 0.03一"
+          data-orbit="-0.9914448597534875m 0m 0.1305262045276267m"
+          data-target="-0.7447473194972593m 0.5609446571192558m 0.17150995729337482m"
 
 
 
 
-                data-visibility-attribute="visible"
+          data-visibility-attribute="visible">
+    <div class="HotspotAnnotation">Victorian Building</div>
+  </button>
 
 
-        >
-          <div class="HotspotAnnotation">Scottish Steelwork</div>
+  <button class="Hotspot" slot="hotspot-3" data-position="0.23202511875832205m 1.355418012940024m 0.4931727603443486m" data-normal="-0.5856454166579043m 0.674592925147162m -0.44938160986959125m"
+
+          data-orbit="-0.5856454166579043m 0.674592925147162m -0.44938160986959125m"
+          data-target="0.23202511875832205m 1.355418012940024m 0.4931727603443486m"
+
+
+          data-visibility-attribute="visible">
+    <div class="HotspotAnnotation">Symbol of the highest court</div>
+  </button>
+
+
+  <button class="Hotspot" slot="hotspot-4" data-position="0.26142564553167913m 1.3577775922443112m -0.46329419972357155m" data-normal="0.7352954429455449m 0.6777467163944912m 0m"
+
+          data-orbit="0.7352954429455449m 0.6777467163944912m 0.44938160986959125m"
+          data-target="0.26142564553167913m 1.3577775922443112m -0.46329419972357155m"
+
+
+          data-visibility-attribute="visible">
+    <div class="HotspotAnnotation">Dome</div>
+  </button>
+
+
+  <button class="Hotspot" slot="hotspot-5"
+          data-position="0.42848696234684047m -0.001468207970816593m 0.03186400137936831m"
+          data-normal="0m -1m 2.220446049250313e-16m"
+          data-orbit="0.3deg 143.1deg auto"
+          data-target="0.4m -0.0m 0.03一"
 
 
 
-      </button>
-      <div class="progress-bar hide" slot="progress-bar">
-          <div class="update-bar"></div>
-      </div>
-      <button slot="ar-button" id="ar-button">
-          View in your space
-      </button>
-      <div id="ar-prompt">
-          <img src="ar_hand_prompt.png">
-      </div>
-    </model-viewer>  
-    <script src="script.js"></script>
-    <!-- Loads <model-viewer> for browsers: -->
-    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-    <script type="module">
+          data-visibility-attribute="visible"
+
+
+  >
+    <div class="HotspotAnnotation">Scottish Steelwork</div>
+
+
+
+  </button>
+  <div class="progress-bar hide" slot="progress-bar">
+    <div class="update-bar"></div>
+  </div>
+  <button slot="ar-button" id="ar-button">
+    View in your space
+  </button>
+  <div id="ar-prompt">
+    <img src="ar_hand_prompt.png">
+  </div>
+</model-viewer>
+<script src="script.js"></script>
+<!-- Loads <model-viewer> for browsers: -->
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<script type="module">
   const modelViewer1 = document.querySelector("#hotspot-camera-view-demo");
   const annotationClicked = (annotation) => {
 
@@ -134,5 +133,5 @@ if (modelViewer1.cameraOrbit!=null){
 
 
 
-  </body>
+</body>
 </html>
