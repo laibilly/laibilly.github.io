@@ -1,29 +1,152 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <title>&lt;model-viewer&gt; template</title>
-    <meta charset="utf-8">
-    <meta name="description" content="&lt;model-viewer&gt; template">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="./styles.css" rel="stylesheet"/>
-    <!-- OPTIONAL: The :focus-visible polyfill removes the focus ring for some input types -->
-    <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
-  </head>
-  <body>
-    <!-- <model-viewer> HTML element -->
-    <model-viewer bounds="tight" enable-pan src="3in1_r.glb?v=1652867668048" ar ar-modes="scene-viewer webxr quick-look" camera-controls environment-image="neutral" poster="poster.jpeg" shadow-intensity="1">
-      <div class="progress-bar hide" slot="progress-bar">
-          <div class="update-bar"></div>
-      </div>
-      <button slot="ar-button" id="ar-button">
-          View in your space
-      </button>
-      <div id="ar-prompt">
-          <img src="ar_hand_prompt.png">
-      </div>
-    </model-viewer>  
-    <script src="script.js"></script>
-    <!-- Loads <model-viewer> for browsers: -->
-    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-  </body>
+
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1
+,maximum-scale=1,user-scalable=no">
+    <style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+    overflow: hidden;;
+}
+
+.bg{
+    content: url('stage0.jpg');
+}
+.game_bg, .fail, .win, .step0
+{
+    width:calc(100vw);
+    position:absolute;
+}
+.game_bg{
+    top:0;content: url('stage1.png');
+}
+.fail{
+top:0;    content: url('lose.jpg');
+}
+.win{
+top:0;
+    content: url('win.jpg');
+}
+
+.overlay{
+position:absolute;
+left: 0;
+    top: 0;
+    width: 100vw;
+content: url('stage1.png');
+
+pointer-events: none;
+}
+#stage1 * {
+
+    overflow: hidden;
+    }
+#stage1 {
+width:100vw;
+height:calc(100vw/9*16);
+    overflow: hidden;
+    position:absolute;
+    }
+
+#videoElement{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+height:100vh;
+
+}
+.startpage{ content: url('stage0.jpg'); }
+.playButton{
+opacity:0%;
+
+    position: absolute;
+    left: calc(100vw / 1125 * 256);
+    top: calc(100vw / 1125 * 1881);
+    width: calc(100vw / 1125 * 808);
+    height: calc(100vw / 1125 * 171);
+ }
+.homeButton{
+
+ content: url('back_button.png');
+     position:absolute;
+   left:calc(100vw / 1125 * 958);
+   top:calc(100vw / 1125 * 83);
+   width:calc(100vw / 1125 * 96);
+    height:calc(100vw / 1125 * 97);
+ }
+body{
+margin:0;
+padding:0;
+
+}
+.hide{
+width:0px !important;
+height:0px !important;
+display:none}
+
+
+#stage0{
+    position:absolute;
+    width:calc(100vw);
+
+}
+
+#step1{
+    width: 100vw;
+    height: 100vh;
+}
+.step0{
+    position:absolute;
+    width:calc(100vw);
+     content: url('stage0.jpg');
+
+
+}
+
+#score{
+position:absolute;
+    left:calc(100vw / 1125 * 377);
+    top: calc(100vw / 1125 * 287);
+    color: white;
+    font-size: calc(86vw*0.1);
+}
+#time{
+    position:absolute;
+    left: calc(100vw / 1125 * 846);
+    top: calc(100vw / 1125 * 287);
+    color: white;
+    font-size: calc(86vw*0.1);
+
+}
+
+.bin{
+
+    position: absolute;
+    margin-left: -20vw;
+    width: 20vw;
+    top: 90vw;
+
+}
+.bin1{ content: url('bin1.png?2') }
+.bin2{ content: url('bin2.png?2') }
+.bin3{ content: url('bin3.png?2') }
+.bin4{ content: url('bin4.png?2') }
+.ban{ content: url('ban.png') !important }
+
+</style>
+</head>
+
+<body><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<!-- Use it like any other HTML element -->
+<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="shared-assets/models/NeilArmstrong.glb" ar environment-image="shared-assets/environments/moon_1k.hdr" poster="shared-assets/models/NeilArmstrong.webp" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+
+
+
+
+
+</body>
 </html>
