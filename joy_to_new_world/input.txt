@@ -1,0 +1,121 @@
+0,@@@,1,@@@,2,@@@,3,@@@,4,@@@,5,@@@,6,@@@,7,@@@,8,@@@,9,@@@,10,@@@,11,@@@,12,@@@
+ID,@@@,english Web page name,@@@,chinese web page name,@@@,image file name,@@@,logo file name,@@@,Title English,@@@,offer content,@@@,terms,@@@,Title Chinese,@@@,Have Book no & Book now Text in english,@@@,Have Book no & Book now Text in chinese,@@@,offer content in chinese,@@@,T & C in chinese,@@@
+1,@@@,k11_artus,@@@,k11_artus_zh,@@@,nwc_kv-1.jpg,@@@,nwc-logo_Artus.png,@@@,Quintessential Festive Holiday,@@@,"Silver bells, spiced hot chocolates, inviting, handcrafted throws.  Welcome to the most quintessential time of the year.
+
+Book our year-end winter package, in celebration of the season’s festivities and incoming new year.  Home to extraordinary vistas from dawn to moonlight, a stay at one of our spacious residences is a rewarding way to reminisce upon the year.
+ 
+Details of this exclusive offer as below (per stay):
+Bonus 1,000 K Dollars for residents booking ARTUS One
+Bonus 2,000 K Dollars for residents booking ARTUS One Plus
+Bonus 2,000 K Dollars for residents booking ARTUS Two
+
+Booking Period: 1 December 2022  – 31 January 2023
+Staying Period: 1 December 2022 – 28 February 2023
+
+Book Now: https://bit.ly/3Fk3WqJ
+
+For any enquiries, please contact us at 2107 3388 or email us at reservations@artus.com.hk
+
+",@@@,"1.        Quintessential Festive Holiday is only applicable to ARTUS One, ARTUS One Plus and ARTUS Two Bedroom Residences.
+2.        Quintessential Festive Holiday is valid to book from 1 December 2022 to 31 January 2023, valid for stays from 1 December 2022 to 28 February 2023, blackout dates apply including 24 - 26 December 2022, 30 - 31 December 2022, 1 January 2023, 21 - 25 January 2023.
+3.        Quintessential Festive Holiday cannot be used in conjunction with KLUB11 membership discount unless specified.
+4.        Guests are required to present their registered KLUB 11 membership number upon check-in to enjoy the credits. New registration upon check-in is welcomed.
+5.        All cancellation and payment policy remain unchanged as original rate plan, while residents could earn points after check-out.
+6.        K11 ARTUS reserves the right to amend the above conditions from time to time. Any disputes will be resolved and decided upon solely by K11 ARTUS, which the decision will be final.
+7.        The T&Cs are in English and Chinese, however, in the instance of any conflict between the translations, the English language shall prevail.
+",@@@,匠心節慶住宿體驗,@@@,"Offer expiry date: 31 January, 2023",@@@,"
+優惠有效期至: 2023年1月31日",@@@,"匠心節慶住宿體驗為賓客締造無比靜謐的居停，讓佳節相聚更添美滿回憶。
+ 
+醉身於香港獨一無二的文化寓館，享受K11 ARTUS 為您悉心打造的節慶假期！匠心節慶住宿體驗邀請您與摯友在 K11 ARTUS 入住，享受節日的歡樂。
+以下為此項優惠詳情：
+預訂一房公寓可獲贈額外1,000 K Dollars
+預訂行政一房公寓公寓可獲贈額外2,000 K Dollars
+預訂雙房公寓可獲贈額外2,000 K Dollars
+
+預訂期限：2022年12月1日至2023年1月31日
+入住期限：2022年12月1日至2023年2月28日
+
+立即預訂: https://bit.ly/3NgtFlD
+
+
+如有任何查詢，歡迎致電至2107 3388或電郵至reservations@artus.com.hk
+
+",@@@,"
+1.        「匠心節慶住宿體驗」只適用於一房、行政一房及兩房公寓。
+2.        「匠心節慶住宿體驗」預訂有效期為2022年12月1日至2023年1月31日而入住日期為2022年12月1日至2023年2月28日。此優惠並不適用於指定日子, 包括2022年12月24日至12月26日、12月30日、12月31日、2023年1月1日，1月21至25日。
+3.        除非另行指定，否則此優惠不能與其他推廣優惠或KLUB11會員折扣一起使用。
+4.        客人必須在辦理入住手續時出示其註冊的KLUB 11會員號碼才能使用積分。歡迎在登記入住時重新註冊。
+5.        所有取消及保證金政策維持不變，住客可在退房後獲取點數獎賞。
+6.        K11 ARTUS保留不時修改上述條件的權利。如有任何糾紛，將僅由K11 ARTUS解決並作出決定，該決定為最終決定。
+7.        條款和條件以英文和中文寫成，但是，如果翻譯之間有任何衝突，應以英文為準。
+",@@@
+2,@@@,humansa_supplements_exclusive_offer,@@@,humansa_supplements_exclusive_offer_zh,@@@,nwc_kv-2.jpg,@@@,nwc-logo_humansa nutrition.png,@@@,Supplements Exclusive Offer,@@@,"From now until 31 Jan, 2023, enjoy exclusive 15% discount on a single order of 3 or more bottles of supplements.  
+
+Order Link: https://shop.humansahealth.com
+Exclusive Promo Code: NWSUP3
+
+For any enquiries, please email us at cs.eshop@humansa.com.hk
+
+",@@@,"1.	The offer is not applicable to discounted items.
+2.	The offer cannot be used in conjunction with other promotional offers and discounts. 
+3.	In case of any dispute, Humansa reserves the right of final decision.
+",@@@,營養補充品獨家優惠,@@@,"Offer expiry date: 31 January, 2023",@@@,"
+優惠有效期至: 2023年1月31日",@@@,"即日起至2023年1月31日 , 單一訂單購買 3 瓶或以上營養補充品，可享15% 獨家折扣優惠 。
+
+購買連結: https://shop.humansahealth.com
+獨家優惠碼: NWSUP3
+
+如有任何查詢，歡迎電郵至cs.eshop@humansa.com.hk
+",@@@,"即日起至2023年1月31日 , 單一訂單購買 3 瓶或以上營養補充品，可享15% 獨家折扣優惠 。
+
+購買連結: https://shop.humansahealth.com
+獨家優惠碼: NWSUP3
+
+如有任何查詢，歡迎電郵至cs.eshop@humansa.com.hk
+",@@@
+3,@@@,humansa_meal_plan_exclusive_offer,@@@,humansa_meal_plan_exclusive_offer_zh,@@@,nwc_kv-3.jpg,@@@,nwc-logo_humansa kitchen.png,@@@,Meal Plan Exclusive Offer,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+4,@@@,freeduty_exclusive_christmas_privilege,@@@,freeduty_exclusive_christmas_privilege_zh,@@@,nwc_kv-4.jpg,@@@,nwc-logo_free duty.png,@@@,Exclusive Christmas privilege ,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+5,@@@,k11_the_love_of_couture_x_ARTE_M_hong_kong,@@@,k11_the_love_of_couture_x_ARTE_M_hong_kong_zh,@@@,nwc_kv-5.jpg,@@@,5_logo.png,@@@,The Love of Couture x ARTE M Hong Kong” Combo,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+6,@@@,donut_playhouse_early_winter_limited_offer,@@@,donut_playhouse_early_winter_limited_offer_zh,@@@,nwc_kv-6.jpg,@@@,nwc-logo_Donut.jpg,@@@,Early Winter Limited Offer 25% off,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+7,@@@,baby_kingdom_christmas_limited_offer,@@@,baby_kingdom_christmas_limited_offer_zh,@@@,nwc_kv-7.jpg,@@@,nwc-logo_baby kngdom.png,@@@,Christmas Limited Offer,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+8,@@@,dMind_&_the_prince_mini_teddy,@@@,dMind_&_the_prince_mini_teddy_zh,@@@,nwc_kv-8.jpg,@@@,nwc-logo_Dmind.png,@@@,DMind & the Prince mini teddy or SEED PROGRAM (1 of 4) ,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+9,@@@,dMind_&_the_prince_5_playgroup_lessons,@@@,dMind_&_the_prince_5_playgroup_lessons_zh,@@@,nwc_kv-9.jpg,@@@,nwc-logo_Dmind.png,@@@,DMind & the Prince 5 Playgroup Lessons,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+10,@@@,k11_exclusive_shopping_e-voucher,@@@,k11_exclusive_shopping_e-voucher_zh,@@@,nwc_kv-10.jpg,@@@,5_logo.png,@@@,Exclusive HK$400 Shopping e-voucher,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+11,@@@,k11_exclusive_dining_e-voucher,@@@,k11_exclusive_dining_e-voucher_zh,@@@,nwc_kv-11.jpg,@@@,5_logo.png,@@@,Exclusive HK$50 Dining e-voucher,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+12,@@@,series_corner_christmas_privilege,@@@,series_corner_christmas_privilege_zh,@@@,nwc_kv-12.jpg,@@@,nwc-logo_series corner.png,@@@,Christmas privilege at series corner,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+13,@@@,gcds_christmas_privilege,@@@,gcds_christmas_privilege_zh,@@@,nwc_kv-13.jpg,@@@,nwc-logo_gcds.png,@@@,Christmas privilege at GCDS,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+14,@@@,k11_musea_weekday_surprise_family_&_kids,@@@,k11_musea_weekday_surprise_family_&_kids_zh,@@@,nwc_kv-14.jpg,@@@,nwc-logo_k11 musea.png,@@@,Weekday Surprise – Family & Kids HK$100 e-voucher,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+15,@@@,k11_musea_weekday_surprise_fashion_&_sports,@@@,k11_musea_weekday_surprise_fashion_&_sports_zh,@@@,nwc_kv-15.jpg,@@@,nwc-logo_k11 musea.png,@@@,Weekday Surprise – Fashion & Sports HK$100 e-voucher,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+16,@@@,k11_musea_weekday_surprise_luxury_&_lifestyle,@@@,k11_musea_weekday_surprise_luxury_&_lifestyle_zh,@@@,nwc_kv-16.jpg,@@@,nwc-logo_k11 musea.png,@@@,Weekday Surprise – Luxury & Lifestyle HK$100 e-voucher,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+17,@@@,k11_musea_dining_surprise,@@@,k11_musea_dining_surprise_zh,@@@,nwc_kv-17.jpg,@@@,nwc-logo_k11 musea.png,@@@,Dining Surprise HK$100 e-voucher,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+18,@@@,k11_christmas_delight_hamper,@@@,k11_christmas_delight_hamper_zh,@@@,nwc_kv-18.jpg,@@@,5_logo.png,@@@,K11 Christmas Delight Hamper,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+19,@@@,k11_christmas_blissful_hamper,@@@,k11_christmas_blissful_hamper_zh,@@@,nwc_kv-19.jpg,@@@,5_logo.png,@@@,K11 Christmas Blissful Hamper,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+20,@@@,k11_christmas_deluxe_hamper,@@@,k11_christmas_deluxe_hamper_zh,@@@,nwc_kv-20.jpg,@@@,5_logo.png,@@@,K11 Christmas Deluxe Hamper,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+21,@@@,dpark_just_climb_course,@@@,dpark_just_climb_course_zh,@@@,nwc_kv-21.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Enjoy 10% off discount upon enrolment of  JUST CLIMB course ,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+22,@@@,dpark_master_snooker_kingdom _regular_class,@@@,dpark_master_snooker_kingdom _regular_class_zh,@@@,nwc_kv-22.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Enjoy 10% off discount upon enrolment of Master Snooker Kingdom regular class,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+23,@@@,dpark_mi_playground_ticket,@@@,dpark_mi_playground_ticket_zh,@@@,nwc_kv-23.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Enjoy 10% off discount upon purchase of MI. Playground ticket,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+24,@@@,dpark_delifrance _free_cookie_pack,@@@,dpark_delifrance _free_cookie_pack_zh,@@@,nwc_kv-24.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Delifrance - Free Cookie pack,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+25,@@@,dpark_toriyamana _kids_buffet,@@@,dpark_toriyamana _kids_buffet_zh,@@@,nwc_kv-25.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Toriyamana - Half price for Kids Buffet,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+26,@@@,dpark_genki_sushi_free_takoyaki,@@@,dpark_genki_sushi_free_takoyaki_zh,@@@,nwc_kv-26.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Genki Sushi - free Takoyaki,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+27,@@@,dpark_yumemiya_free_kids_meal ,@@@,dpark_yumemiya_free_kids_meal _zh,@@@,nwc_kv-27.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Yumemiya - Free Kids Meal ,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+28,@@@,dpark_sandaime_free_deep_fried_oyster_pack (8 pcs),@@@,dpark_sandaime_free_deep_fried_oyster_pack_zh,@@@,nwc_kv-28.jpg,@@@,nwc-logo_Dpark.jpg,@@@,Sandaime - free deep fried oyster pack (8 pcs),@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+29,@@@,dpark_eslite_bookstore,@@@,dpark_eslite_bookstore_zh,@@@,nwc_kv-29.jpg,@@@,nwc-logo_Dpark.jpg,@@@,eslite bookstore - $50 digital cash,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+30,@@@,dpark_at_home_digital_cash_coupon ,@@@,dpark_at_home_digital_cash_coupon _zh,@@@,nwc_kv-30.jpg,@@@,nwc-logo_Dpark.jpg,@@@,at.home -  $100 digital cash coupon ,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+31,@@@,the_forest_chef_&_taste,@@@,the_forest_chef_&_taste_zh,@@@,nwc_kv-31.jpg,@@@,nwc-logo_the_forest.jpg,@@@,Chef & Taste - THE FOREST Branch Special: 30% Off on All Meats,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+32,@@@,the_forest_warm_winter_reward,@@@,the_forest_warm_winter_reward_zh,@@@,nwc_kv-32.jpg,@@@,nwc-logo_the_forest.jpg,@@@,Warm Winter Reward,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+33,@@@,rosewood_festive_culinary_delights,@@@,rosewood_festive_culinary_delights_zh,@@@,nwc_kv-33.jpg,@@@,nwc-logo_rosewood.jpg,@@@,"Festive Culinary Delights at Rosewood Hong Kong
+(Selected Members Only)",@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+34,@@@,hyatt_chocolatier,@@@,hyatt_chocolatier_zh,@@@,nwc_kv-34.jpg,@@@,nwc-logo_hyatt.jpg,@@@,"15% discount on festive pastries, cakes, takeaway afternoon tea set and hampers at Chocolatier
+(Grand Hyatt Hong Kong)",@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+35,@@@,hyatt_christmas_to_go_package,@@@,hyatt_christmas_to_go_package_zh,@@@,nwc_kv-35.jpg,@@@,nwc-logo_hyatt.jpg,@@@,"10% off Christmas To-go Package 
+(Hyatt Regency Hong Kong, Tsim Sha Tsui)",@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+36,@@@,"hyatt_christmas_confectionery
+",@@@,"hyatt_christmas_confectionery_zh
+",@@@,nwc_kv-36.jpg,@@@,nwc-logo_hyatt.jpg,@@@,"15% off Christmas Confectionery 
+(Hyatt Regency Hong Kong, Tsim Sha Tsui)",@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+37,@@@,"hyatt_christmas_confectionery2
+",@@@,"hyatt_christmas_confectionery2_zh
+",@@@,nwc_kv-37.jpg,@@@,nwc-logo_hyatt.jpg,@@@,"10% off Christmas Confectionery 
+(Hyatt Regency Hong Kong, Sha Tin)",@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+38,@@@,humansa_fitness_free_fitness_consultation_and_training_experience,@@@,humansa_fitness_free_fitness_consultation_and_training_experience_zh,@@@,nwc_kv-38.jpg,@@@,nwc-logo_humansa fitness.png,@@@,Free fitness consultation and training experience,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
+39,@@@,humansa_fitness_personal_training_package,@@@,humansa_fitness_personal_training_package_zh,@@@,nwc_kv-39.jpg,@@@,nwc-logo_humansa fitness.png,@@@,10% off of all Personal Training package,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@,,@@@
